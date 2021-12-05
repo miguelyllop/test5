@@ -151,10 +151,16 @@ em {
 }
 
 .main-section {
-  margin-top: 1rem;
-  margin-bottom: 5rem;
-  margin-left: 2rem;
-  margin-right: 2rem;
+   display: -ms-flex;
+  display: flex;
+
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
+  border-top: .05rem solid #C1C1C0;
+  padding-top: 1rem;
 }
 
 .project-component-1 {
