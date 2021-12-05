@@ -171,7 +171,7 @@ em {
   background-color: #48755a;
   padding: 2rem;
   margin: 0 0 1rem 0;
-  width: auto;
+  width: 80%;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
   flex-grow: 1;
@@ -193,7 +193,7 @@ em {
   background-color: #253444;
   padding: 2rem;
   margin: 0 0 1rem 0;
-  width: auto;
+  width: 80%;
   max-width: 35rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
