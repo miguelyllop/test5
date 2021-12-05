@@ -174,9 +174,8 @@ em {
   max-width: 10rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
-  box-sizing: border-box;
   flex-grow: 1;
-  flex-basis: 17rem;
+  flex-basis: content;
 
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
@@ -198,9 +197,8 @@ em {
   max-width: 35rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
-  box-sizing: border-box;
   flex-grow: 1;
-  flex-basis: 17rem;
+  flex-basis: content;
 
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
@@ -222,9 +220,8 @@ em {
   max-width: 35rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
-  box-sizing: border-box;
   flex-grow: 1;
-  flex-basis: 17rem;
+  flex-basis: content;
 
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
@@ -246,9 +243,8 @@ em {
   max-width: 35rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
-  box-sizing: border-box;
   flex-grow: 1;
-  flex-basis: 17rem;
+  flex-basis: content;
 
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
@@ -270,9 +266,8 @@ em {
   max-width: 35rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
-  box-sizing: border-box;
   flex-grow: 1;
-  flex-basis: 17rem;
+  flex-basis: content;
 
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
