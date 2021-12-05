@@ -10,7 +10,7 @@
 
 .sub-content-item {
   box-sizing: border-box;
-  flex-grow: 1;
-  flex-basis: content;
+ flex: 'flex-grow';
+  flex: 1 1 300px;
   margin-right: 1rem;
 }
