@@ -4,7 +4,7 @@
 }
 
 body {
-  margin: 2rem;
+  margin: 0rem;
   font-family: 'Inconsolata', sans-serif;
   color: #231F20;
 }
@@ -147,6 +147,7 @@ em {
 .intro {
   margin-top: 22%;
   max-width: 40rem;
+  margin-bottom: 22%;
 }
 
 .main-section {
