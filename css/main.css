@@ -158,6 +158,9 @@ em {
 }
 
 .project-component-1 {
+  box-sizing: border-box;
+  flex-grow: 1;
+  flex-basis: 17rem;
   display: inline-block;
   text-decoration: none;
   color: white;
