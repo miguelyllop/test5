@@ -11,6 +11,6 @@
 .sub-content-item {
   box-sizing: border-box;
   flex-grow: 1;
-  flex-basis: 18rem;
+  flex-basis: content;
   margin-right: 1rem;
 }
