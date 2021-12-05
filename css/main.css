@@ -262,7 +262,7 @@ em {
   padding: 2rem;
   margin: 0 0 1rem 0;
   width: auto;
-  max-width: 35rem;
+  max-width: auto;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
   flex-grow: 1;
