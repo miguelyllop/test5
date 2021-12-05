@@ -1,13 +1,13 @@
 *, *::after, *::before {
   box-sizing: border-box;
   margin:0;
-   background-color:#000;
 }
 
 body {
   margin: 0rem;
   font-family: 'Inconsolata', sans-serif;
   color: #231F20;
+   background-color:#000;
 }
 
 .alternate {
