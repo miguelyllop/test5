@@ -171,7 +171,7 @@ em {
   padding: 2rem;
   margin: 0 0 1rem 0;
   width: 100%;
-  max-width: 20rem;
+  max-width: 10rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
   box-sizing: border-box;
@@ -198,6 +198,9 @@ em {
   max-width: 35rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
+  box-sizing: border-box;
+  flex-grow: 1;
+  flex-basis: 17rem;
 
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
@@ -219,6 +222,9 @@ em {
   max-width: 35rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
+  box-sizing: border-box;
+  flex-grow: 1;
+  flex-basis: 17rem;
 
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
@@ -240,6 +246,9 @@ em {
   max-width: 35rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
+  box-sizing: border-box;
+  flex-grow: 1;
+  flex-basis: 17rem;
 
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
@@ -261,6 +270,9 @@ em {
   max-width: 35rem;
   height: 20rem;
   box-shadow: 1px 3px 10px #C1C1C0;
+  box-sizing: border-box;
+  flex-grow: 1;
+  flex-basis: 17rem;
 
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
