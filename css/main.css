@@ -341,31 +341,31 @@ em {
   .project-component-1 {
     margin: 1rem;
     color: #231F20;
-    background-color: #000000;
+    background-color: #FFFFFF;
   }
 
   .project-component-2 {
     margin: 1rem;
     color: #231F20;
-    background-color: #000000;
+    background-color: #FFFFFF;
   }
 
   .project-component-3 {
     margin: 1rem;
     color: #231F20;
-    background-color: #000000;
+    background-color: #FFFFFF;
   }
 
   .project-component-4 {
     margin: 1rem;
     color: #231F20;
-    background-color: #000000;
+    background-color: #FFFFFF;
   }
 
   .project-component-5 {
     margin: 1rem;
     color: #231F20;
-    background-color: #000000;
+    background-color: #FFFFFF;
   }
 
   .about-paragraph {
@@ -504,7 +504,7 @@ code {
 }
 
 .swatch-white {
-  background-color: #000000;
+  background-color: #FFFFFF;
   border: .05rem solid #C1C1C0;
   padding: .5rem;
   width: 10rem;
