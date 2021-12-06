@@ -21,7 +21,7 @@ h1 {
   font-family: 'Inconsolata', monospace;
   letter-spacing: .15rem;
   font-size: 1.5rem;
-  margin-left: 0;
+  margin-left: 1;
 }
 
 h2 {
@@ -159,8 +159,8 @@ em {
 
   margin-top: 1rem;
   margin-bottom: 1rem;
-  margin-right: 2rem;
-  margin-left: 2rem;
+  margin-right: 4rem;
+  margin-left: 4rem;
   border-top: .05rem solid #C1C1C0;
   padding-top: 1rem;
 }
