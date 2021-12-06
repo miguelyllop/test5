@@ -159,6 +159,8 @@ em {
 
   margin-top: 1rem;
   margin-bottom: 1rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
   border-top: .05rem solid #C1C1C0;
   padding-top: 1rem;
 }
@@ -455,7 +457,7 @@ em {
   font-size: 1.3rem;
   flex-basis: 100%;
   font-weight: 300;
-  margin-left: 2rem;
+  margin-left: 3rem;
   margin-bottom: 1rem;
 }
 
