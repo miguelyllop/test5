@@ -158,8 +158,8 @@ em {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 
-  margin-top: 3.5rem;
-  margin-bottom: 3.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   border-top: .05rem solid #C1C1C0;
   padding-top: 1rem;
 }
@@ -173,7 +173,6 @@ em {
   margin: 0 0 1rem 0;
   width: auto;
   height: 20rem;
-  box-shadow: 1px 3px 10px #C1C1C0;
   flex-grow: 1;
   flex-basis: content;
 
@@ -195,7 +194,6 @@ em {
   margin: 0 0 1rem 0;
   width: auto;
   height: 20rem;
-  box-shadow: 1px 3px 10px #C1C1C0;
   flex-grow: 1;
   flex-basis: content;
 
@@ -217,7 +215,6 @@ em {
   margin: 0 0 1rem 0;
   width: auto;
   height: 20rem;
-  box-shadow: 1px 3px 10px #C1C1C0;
   flex-grow: 1;
   flex-basis: content;
 
@@ -239,7 +236,6 @@ em {
   margin: 0 0 1rem 0;
   width: auto;
   height: 20rem;
-  box-shadow: 1px 3px 10px #C1C1C0;
   flex-grow: 1;
   flex-basis: content;
 
@@ -261,7 +257,6 @@ em {
   margin: 0 0 1rem 0;
   width: auto;
   height: 20rem;
-  box-shadow: 1px 3px 10px #C1C1C0;
   flex-grow: 1;
   flex-basis: content;
 
